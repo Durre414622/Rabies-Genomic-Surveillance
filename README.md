@@ -60,6 +60,8 @@ All genome sequences are publicly available on GenBank:
 | PV641716 | Rabies virus isolate, Sindh, Pakistan | Submitted |
 | PV641717 | Rabies virus isolate, Sindh, Pakistan | Submitted |
 
+**Note:** These genome sequences are publicly available via NCBI GenBank. This repository shares only the public accession numbers and standard analysis scripts. No proprietary or confidential data is included.
+
 ## Publications
 
 Roome T, Rashid M, Baig N, Quraishy MS, Sheraz N, Aslam F, Zaidi MB, **Syeda DE-S**, Kalhoro NH, Sarfaraz S, et al. (2026). Identification & characterization of circulating rabies virus isolates from Sindh, Pakistan. *PLOS Neglected Tropical Diseases* (under review).
