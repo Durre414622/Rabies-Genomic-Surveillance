@@ -69,6 +69,7 @@ Roome T, Rashid M, Baig N, Quraishy MS, Sheraz N, Aslam F, Zaidi MB, **Syeda DE-
 **Dr. Durr-e-Shahwar Syeda**  
 📧 sdurreshahwar@gmail.com  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=yBeEPWQAAAAJ&hl=en)
+💻 [GitHub](https://github.com/durre414622)
 
 ## License
 
